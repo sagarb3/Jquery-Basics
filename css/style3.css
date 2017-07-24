@@ -1,0 +1,12 @@
+.bold{
+	font-weight:bold;
+}
+#hoverdiv{
+	display:none;
+	position:absolute;
+	font-size:14px;
+	background-color:#fff;
+	color:#404040;
+	padding:7px;
+	border:1px solid black;
+}
